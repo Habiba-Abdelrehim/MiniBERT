@@ -1,4 +1,4 @@
-# MiniBERT: Optimized Emotion Classification Model 👾
+# MiniBERT: Optimized Emotion Classification Model
 
 An efficient and lightweight language model for **emotion classification**, fine-tuned on the [GoEmotions dataset](https://huggingface.co/datasets/go_emotions) using **HuggingFace** and **PyTorch**.
 
